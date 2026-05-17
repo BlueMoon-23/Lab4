@@ -1,4 +1,9 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\BaiTap3",
+    "\\BaiTap3\\BaiTap3"
+  ],
+  "SelectedNode": "\\BaiTap3\\BaiTap3\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
